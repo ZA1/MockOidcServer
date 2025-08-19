@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "email": "elara.voss@example.com",
+      "given_name": "Elara",
+      "family_name": "Voss",
+      "picture": "https://api.dicebear.com/9.x/avataaars/svg?seed=elara.voss@example.com",
+    },
+    {
+      "email": "miles.tran@example.com",
+      "given_name": "Miles",
+      "family_name": "Tran",
+      "picture": "https://api.dicebear.com/9.x/avataaars/svg?seed=miles.tran@example.com"
+    },
+    {
+      "email": "jessica.wang@example.com",
+      "given_name": "Jessica",
+      "family_name": "Wang",
+      "picture": "https://api.dicebear.com/9.x/avataaars/svg?seed=jessica.wang@example.com"
+    },
+    {
+      "email": "david.nguyen@example.com",
+      "given_name": "David",
+      "family_name": "Nguyen",
+      "picture": "https://api.dicebear.com/9.x/avataaars/svg?seed=david.nguyen@example.com"
+    }
+  ]
+}
